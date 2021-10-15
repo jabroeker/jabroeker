@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jabroeker
+- 👀 I’m interested in RPA Dev, Docker, Raspberry PI, Debian etc.
+- 🌱 I’m currently learning to create Docker container, geting in touch with Linux after years of Windows
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me just mail me to: jan.broeker6799@gmail.com
